@@ -11,8 +11,8 @@ let me = SoftwareEngineer(firstName: "Andrii",
                                                                                  "Objective-C"],
                                                           platforms: ["iOS"],
                                                           architectures: ["MVC",
-                                                                          "MVVM",
-                                                                          "VIPER"],
+                                                                          "MVP+C"
+                                                                          "MVVM"],
                                                           other: ["CI / CD (Jenkins, Fastlane, GitHub Actions)",
                                                                   "Dependency managers (CocoaPods, SPM)",
                                                                   "Design Patterns"
