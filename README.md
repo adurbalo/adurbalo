@@ -11,12 +11,17 @@ let me = SoftwareEngineer(firstName: "Andrii",
                                                                                  "Objective-C"],
                                                           platforms: ["iOS"],
                                                           architectures: ["MVC",
-                                                                          "MVP+C"
+                                                                          "MVP+C",
                                                                           "MVVM"],
-                                                          other: ["CI / CD (Jenkins, Fastlane, GitHub Actions)",
-                                                                  "Dependency managers (CocoaPods, SPM)",
-                                                                  "Design Patterns"
-                                                          ]),
+                                                          scripting: ["Bash", "Ruby", "Python"] // mostly for automatization purposes
+                                                          other: ["CI / CD (GitLab, Jenkins, GitHub Actions, Fastlane)",
+                                                                  "Dependency managers (CocoaPods, SwiftPM)",
+                                                                  "Project modularization",
+                                                                  "Shared components development",
+                                                                  "Release and provisioning activities",
+                                                                  "Internal and external interviewing",
+                                                                  "Design patterns",
+                                                                  "Troubleshooter"]),
                           location: "EU 🇪🇺",
                           funFact: "Big fan of Dynamo Kyiv and Golden State Warriors, prefer electronic music like drum & bass or so.")
 
