@@ -17,7 +17,7 @@ let me = SoftwareEngineer(firstName: "Andrii",
                                                                   "Dependency managers (CocoaPods, SPM)",
                                                                   "Design Patterns"
                                                           ]),
-                          location: "Odesa, Ukraine 🇺🇦",
+                          location: "EU 🇪🇺",
                           funFact: "Big fan of Dynamo Kyiv and Golden State Warriors, prefer electronic music like drum & bass or so.")
 
 print("Hi there, my name is \(me.firstName). I'm a \(me.role). Nice to see you here 😉")
