@@ -1,16 +1,18 @@
-## Hi there 👋
+# Andrii Durbalo
 
-<!--
-**adurbalo/adurbalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS engineer based in Amsterdam, with 15+ years of experience building apps and SDKs. I work mainly in Swift and SwiftUI, with UIKit where it makes sense.
 
-Here are some ideas to get you started:
+At [Polarsteps](https://www.polarsteps.com/), I build core travel features and work on modularization, performance and CI. Previously, I was an iOS Team Lead at [GR8 Tech](https://gr8.tech/) and built and modernized internal SDKs at [Rakuten Advertising](https://rakutenadvertising.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```swift
+let me = (
+    role: "Senior iOS Engineer",
+    location: "Amsterdam, Netherlands",
+    stack: ["Swift", "SwiftUI", "UIKit"],
+    focus: ["Modularization", "SDKs", "Performance", "Developer tooling"]
+)
+```
+
+Outside work: Dynamo Kyiv, Golden State Warriors and electronic music.
+
+[LinkedIn](https://www.linkedin.com/in/adurbalo) · [Email](mailto:andrii.durbalo@gmail.com)
